@@ -1,0 +1,52 @@
+<map id="client.cpp" name="client.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2143,5,2220,32"/>
+<area shape="rect" id="node2" href="$uhs_2atomizer_2watchtower_2client_8hpp.html" title="Client helpers for interfacing with a watchtower server." alt="" coords="1684,80,1762,107"/>
+<area shape="rect" id="node29" href="$serialization_2util_8hpp.html" title=" " alt="" coords="1556,408,1666,449"/>
+<area shape="rect" id="node45" href="$watchtower_8hpp.html" title="Watchtower core functionality." alt="" coords="2577,326,2690,353"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2628,80,2680,107"/>
+<area shape="rect" id="node3" href="$uhs_2atomizer_2watchtower_2messages_8hpp.html" title="Messages clients can use to communicate with the Watchtower." alt="" coords="1690,408,1857,449"/>
+<area shape="rect" id="node5" href="$status__update__messages_8hpp.html" title="Watchtower module to process and cache block history." alt="" coords="2018,497,2217,539"/>
+<area shape="rect" id="node6" href="$blocking__queue_8hpp.html" title=" " alt="" coords="2102,319,2248,360"/>
+<area shape="rect" id="node11" href="$config_8hpp.html" title="Tools for reading options from a configuration file and building application&#45;specific parameter sets ..." alt="" coords="180,505,335,531"/>
+<area shape="rect" id="node24" href="$connection__manager_8hpp.html" title=" " alt="" coords="2072,155,2228,196"/>
+<area shape="rect" id="node38" href="$util_2serialization_2format_8hpp.html" title=" " alt="" coords="725,408,836,449"/>
+<area shape="rect" id="node4" href="$serializer_8hpp.html" title=" " alt="" coords="1646,587,1757,628"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1933,415,2060,442"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2084,415,2162,442"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2697,676,2754,703"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2529,505,2586,531"/>
+<area shape="rect" id="node12" href="$hash_8hpp.html" title=" " alt="" coords="75,594,150,621"/>
+<area shape="rect" id="node14" href="$keys_8hpp.html" title=" " alt="" coords="245,594,318,621"/>
+<area shape="rect" id="node15" title=" " alt="" coords="371,676,430,703"/>
+<area shape="rect" id="node16" href="$logging_8hpp.html" title=" " alt="" coords="682,594,769,621"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1292,676,1359,703"/>
+<area shape="rect" id="node19" href="$socket_8hpp.html" title=" " alt="" coords="793,594,949,621"/>
+<area shape="rect" id="node21" title=" " alt="" coords="844,676,898,703"/>
+<area shape="rect" id="node22" title=" " alt="" coords="174,594,221,621"/>
+<area shape="rect" id="node23" title=" " alt="" coords="495,594,556,621"/>
+<area shape="rect" id="node13" title=" " alt="" coords="211,676,262,703"/>
+<area shape="rect" id="node17" title=" " alt="" coords="286,676,347,703"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2270,676,2338,703"/>
+<area shape="rect" id="node25" href="$peer_8hpp.html" title=" " alt="" coords="2221,244,2292,271"/>
+<area shape="rect" id="node26" href="$tcp__socket_8hpp.html" title=" " alt="" coords="1790,326,1901,353"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2440,415,2502,442"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2323,326,2382,353"/>
+<area shape="rect" id="node33" href="$socket__selector_8hpp.html" title=" " alt="" coords="732,505,871,531"/>
+<area shape="rect" id="node34" href="$tcp__listener_8hpp.html" title=" " alt="" coords="1862,244,1976,271"/>
+<area shape="rect" id="node35" title=" " alt="" coords="973,594,1038,621"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2865,505,2968,531"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2102,244,2197,271"/>
+<area shape="rect" id="node27" href="$buffer_8hpp.html" title=" " alt="" coords="1192,594,1345,621"/>
+<area shape="rect" id="node28" href="$buffer__serializer_8hpp.html" title=" " alt="" coords="1474,497,1614,539"/>
+<area shape="rect" id="node30" href="$size__serializer_8hpp.html" title=" " alt="" coords="1638,505,1765,531"/>
+<area shape="rect" id="node39" href="$variant__overloaded_8hpp.html" title=" " alt="" coords="458,497,594,539"/>
+<area shape="rect" id="node40" title=" " alt="" coords="359,505,434,531"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1063,594,1116,621"/>
+<area shape="rect" id="node42" title=" " alt="" coords="618,505,658,531"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2342,505,2453,531"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1790,505,1894,531"/>
+<area shape="rect" id="node46" href="$block__cache_8hpp.html" title=" " alt="" coords="2577,415,2696,442"/>
+<area shape="rect" id="node48" href="$error__cache_8hpp.html" title=" " alt="" coords="2720,415,2835,442"/>
+<area shape="rect" id="node49" href="$status__update_8hpp.html" title=" " alt="" coords="2187,415,2315,442"/>
+<area shape="rect" id="node47" href="$block_8hpp.html" title=" " alt="" coords="1098,497,1247,539"/>
+</map>

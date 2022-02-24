@@ -1,0 +1,52 @@
+<map id="interface.hpp" name="interface.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1296,5,1392,32"/>
+<area shape="rect" id="node2" href="$validation_8hpp.html" title=" " alt="" coords="1247,169,1441,196"/>
+<area shape="rect" id="node5" href="$hash_8hpp.html" title=" " alt="" coords="144,512,293,539"/>
+<area shape="rect" id="node16" title=" " alt="" coords="420,587,487,613"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1973,587,2027,613"/>
+<area shape="rect" id="node38" href="$connection__manager_8hpp.html" title=" " alt="" coords="2338,80,2494,121"/>
+<area shape="rect" id="node3" href="$transaction_8hpp.html" title=" " alt="" coords="571,251,682,278"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2139,587,2207,613"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1184,512,1245,539"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1523,512,1589,539"/>
+<area shape="rect" id="node30" title=" " alt="" coords="296,430,336,457"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1339,251,1434,278"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1459,251,1621,278"/>
+<area shape="rect" id="node4" title=" " alt="" coords="907,341,1021,367"/>
+<area shape="rect" id="node9" href="$keys_8hpp.html" title=" " alt="" coords="859,512,1007,539"/>
+<area shape="rect" id="node12" href="$util_2serialization_2format_8hpp.html" title=" " alt="" coords="773,333,883,375"/>
+<area shape="rect" id="node20" title=" " alt="" coords="75,587,136,613"/>
+<area shape="rect" id="node33" href="$serialization_2util_8hpp.html" title=" " alt="" coords="1873,333,1983,375"/>
+<area shape="rect" id="node6" title=" " alt="" coords="161,587,277,613"/>
+<area shape="rect" id="node7" title=" " alt="" coords="951,587,1001,613"/>
+<area shape="rect" id="node8" title=" " alt="" coords="325,587,395,613"/>
+<area shape="rect" id="node10" title=" " alt="" coords="865,587,927,613"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1041,587,1100,613"/>
+<area shape="rect" id="node13" href="$serializer_8hpp.html" title=" " alt="" coords="1663,512,1761,539"/>
+<area shape="rect" id="node15" href="$buffer_8hpp.html" title=" " alt="" coords="1837,512,1990,539"/>
+<area shape="rect" id="node18" href="$config_8hpp.html" title="Tools for reading options from a configuration file and building application&#45;specific parameter sets ..." alt="" coords="904,430,1059,457"/>
+<area shape="rect" id="node26" href="$variant__overloaded_8hpp.html" title=" " alt="" coords="1184,423,1320,464"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1395,430,1469,457"/>
+<area shape="rect" id="node29" title=" " alt="" coords="563,430,616,457"/>
+<area shape="rect" id="node31" title=" " alt="" coords="641,430,751,457"/>
+<area shape="rect" id="node32" title=" " alt="" coords="776,430,880,457"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1565,587,1630,613"/>
+<area shape="rect" id="node19" href="$logging_8hpp.html" title=" " alt="" coords="491,512,578,539"/>
+<area shape="rect" id="node22" href="$socket_8hpp.html" title=" " alt="" coords="2262,512,2418,539"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2641,587,2698,613"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2308,587,2372,613"/>
+<area shape="rect" id="node34" href="$buffer__serializer_8hpp.html" title=" " alt="" coords="1899,430,2035,457"/>
+<area shape="rect" id="node35" href="$size__serializer_8hpp.html" title=" " alt="" coords="1747,430,1874,457"/>
+<area shape="rect" id="node39" href="$peer_8hpp.html" title=" " alt="" coords="2699,169,2770,196"/>
+<area shape="rect" id="node40" href="$tcp__socket_8hpp.html" title=" " alt="" coords="2215,251,2326,278"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2811,341,2872,367"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2423,341,2550,367"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2574,341,2631,367"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2763,251,2821,278"/>
+<area shape="rect" id="node47" href="$socket__selector_8hpp.html" title=" " alt="" coords="2211,430,2349,457"/>
+<area shape="rect" id="node48" href="$tcp__listener_8hpp.html" title=" " alt="" coords="2214,169,2327,196"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2454,169,2557,196"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2581,169,2675,196"/>
+<area shape="rect" id="node42" href="$blocking__queue_8hpp.html" title=" " alt="" coords="2542,244,2687,285"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2707,341,2786,367"/>
+</map>

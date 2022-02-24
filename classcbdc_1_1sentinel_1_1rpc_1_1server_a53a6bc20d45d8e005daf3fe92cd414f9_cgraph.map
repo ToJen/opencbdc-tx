@@ -1,0 +1,4 @@
+<map id="cbdc::sentinel::rpc::server::server" name="cbdc::sentinel::rpc::server::server">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,5,131,47"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1sentinel_1_1interface.html#a0ec09e33e408e948a35db9a23ccaa82b" title="Validate transaction on the sentinel, and forward it to the coordinator or shards depending on the im..." alt="" coords="179,5,336,47"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1130,56,1157"/>
+<area shape="rect" id="node2" href="$client-cli_8cpp.html#ab721ec6eb091ad83ae95371156a2239d" title=" " alt="" coords="113,969,251,995"/>
+<area shape="rect" id="node4" href="$classcbdc_1_1client.html#aff758829cabeed3cb728a468f508082f" title="Format a value given in currency base units as USD." alt="" coords="334,1016,453,1057"/>
+<area shape="rect" id="node8" href="$client-cli_8cpp.html#afcf4411eed8031177b7f28f99f81f8ac" title=" " alt="" coords="130,1079,234,1106"/>
+<area shape="rect" id="node16" href="$namespacecbdc_1_1config.html#ad4be7fdff41e9407810e53818ecea924" title="Converts c&#45;args from an executable&#39;s main function into a vector of strings." alt="" coords="109,1231,255,1258"/>
+<area shape="rect" id="node17" href="$client-cli_8cpp.html#aeed4f46ae9772a4898f8b880fe06675f" title=" " alt="" coords="107,1282,257,1309"/>
+<area shape="rect" id="node19" href="$namespacecbdc_1_1config.html#a58e2eb86244705e835c07541355a5309" title="Loads options from the given config file and check for invariants." alt="" coords="122,724,242,765"/>
+<area shape="rect" id="node47" href="$client-cli_8cpp.html#accdaf728cf67c681400bee24be079e6d" title=" " alt="" coords="338,1183,449,1210"/>
+<area shape="rect" id="node48" href="$client-cli_8cpp.html#ad783cb0cb4e4184edcd5fb3a71d98377" title=" " alt="" coords="104,1333,260,1359"/>
+<area shape="rect" id="node50" href="$client-cli_8cpp.html#a8f57fc9ecb3681d96ef3f40a2c1102a0" title=" " alt="" coords="125,1130,239,1157"/>
+<area shape="rect" id="node3" href="$namespacecbdc.html#aafd742f41d950c51068a394340e6d9b0" title="Parses a hexadecimal representation of a hash." alt="" coords="741,790,885,817"/>
+<area shape="rect" id="node5" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="536,1125,663,1167"/>
+<area shape="rect" id="node6" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="749,1169,876,1195"/>
+<area shape="rect" id="node7" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="953,1169,1093,1195"/>
+<area shape="rect" id="node9" href="$client-cli_8cpp.html#ac1723efebee1f37b0b8f4ff1787cf34e" title=" " alt="" coords="335,1082,452,1109"/>
+<area shape="rect" id="node10" href="$client-cli_8cpp.html#a86cd5869e22f13d449855e968b8919b4" title=" " alt="" coords="342,1133,445,1159"/>
+<area shape="rect" id="node11" href="$classcbdc_1_1client.html#ab78fb6f2b72e00d461c07618fedea288" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="535,1191,663,1232"/>
+<area shape="rect" id="node13" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="533,1256,666,1297"/>
+<area shape="rect" id="node14" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="546,1322,653,1349"/>
+<area shape="rect" id="node15" href="$namespacecbdc_1_1sentinel.html#a49451c48c108396eebfdb96a0873541e" title="Return a human&#45;readable string describing a tx_status." alt="" coords="753,593,872,635"/>
+<area shape="rect" id="node12" href="$classcbdc_1_1transaction_1_1wallet.html#a7e3e385aa81e513f3010869375cb8942" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="747,1219,879,1275"/>
+<area shape="rect" id="node18" href="$classcbdc_1_1buffer.html#a170db2df3d405d2c9696a620c0c8ffcd" title="Creates a new buffer from the provided hex string." alt="" coords="320,1282,467,1309"/>
+<area shape="rect" id="node20" href="$namespacecbdc_1_1config.html#a07d2b72eb67ab0fb8041eedcc392d2b1" title="Checks a fully populated options struct for invariants." alt="" coords="328,724,459,765"/>
+<area shape="rect" id="node21" href="$namespacecbdc_1_1config.html#a976ec9d4e8d687e2b4228201446e9c97" title="Read options from the given config file without checking invariants." alt="" coords="333,659,454,700"/>
+<area shape="rect" id="node22" href="$namespacecbdc_1_1config.html#a5224eaf079999b3be86212b3f18c77fa" title=" " alt="" coords="537,972,661,1013"/>
+<area shape="rect" id="node26" href="$namespacecbdc_1_1config.html#aa2ab6c0bbe70ec89253fa8135e4db533" title=" " alt="" coords="536,136,663,177"/>
+<area shape="rect" id="node30" href="$namespacecbdc_1_1config.html#af453ffb9c9e4719adf487e57313384b1" title=" " alt="" coords="528,365,671,407"/>
+<area shape="rect" id="node35" href="$namespacecbdc_1_1config.html#a4a2fc9ace25796a0de9747699f83d332" title=" " alt="" coords="538,841,661,883"/>
+<area shape="rect" id="node38" href="$namespacecbdc_1_1config.html#a5551f168ee7212210a2ec5cec21cbeb5" title=" " alt="" coords="539,907,660,948"/>
+<area shape="rect" id="node39" href="$namespacecbdc_1_1config.html#ab6f62c195aafca9a9b4b9862ced75f9a" title=" " alt="" coords="538,476,661,517"/>
+<area shape="rect" id="node42" href="$namespacecbdc_1_1config.html#ab1d556f022779dc9fff160a62edfc913" title=" " alt="" coords="537,659,661,700"/>
+<area shape="rect" id="node45" href="$namespacecbdc_1_1config.html#a0cba75d140dc2d6eee6a3e74c47453ec" title=" " alt="" coords="539,724,660,765"/>
+<area shape="rect" id="node46" href="$namespacecbdc_1_1config.html#a20e19b15961752edf382e5c429c6b8e4" title=" " alt="" coords="527,541,672,583"/>
+<area shape="rect" id="node23" href="$namespacecbdc_1_1config.html#a3589dc0d77cd09d6fa1610f0cba4db0a" title=" " alt="" coords="729,972,896,1013"/>
+<area shape="rect" id="node24" href="$namespacecbdc_1_1config.html#a24eb93a145de7af7bdd7411f3e754533" title=" " alt="" coords="729,1037,896,1079"/>
+<area shape="rect" id="node25" href="$namespacecbdc_1_1config.html#a6956a90b162eeb0bde5ebf8449f5a4f7" title=" " alt="" coords="729,1103,896,1144"/>
+<area shape="rect" id="node27" href="$namespacecbdc_1_1config.html#a8292b9ea9f3c076b4cb7cf721fdb1bb7" title=" " alt="" coords="727,136,898,177"/>
+<area shape="rect" id="node28" href="$namespacecbdc_1_1config.html#a5bddebc2dacbe954cd429500d25bd773" title=" " alt="" coords="727,5,898,47"/>
+<area shape="rect" id="node29" href="$namespacecbdc_1_1config.html#aa924d1d331dca2429f56edbf0b338789" title=" " alt="" coords="727,71,898,112"/>
+<area shape="rect" id="node31" href="$namespacecbdc_1_1config.html#a70bb8028d224475bf2d123cee8f1511d" title=" " alt="" coords="720,201,905,243"/>
+<area shape="rect" id="node32" href="$namespacecbdc_1_1config.html#accf219035947c057f15558131b175eb3" title=" " alt="" coords="720,267,905,308"/>
+<area shape="rect" id="node33" href="$namespacecbdc_1_1config.html#a83da6e1b6a8feabdcda3ecd4f8975b5f" title=" " alt="" coords="720,332,905,373"/>
+<area shape="rect" id="node34" href="$namespacecbdc_1_1config.html#a569abd1a831bef46a57d5b997ab03f8d" title=" " alt="" coords="720,397,905,439"/>
+<area shape="rect" id="node36" href="$classcbdc_1_1config_1_1parser.html#a951a08be8df7a50407de43a808921434" title="Return the value for the given key if its value is a double." alt="" coords="747,841,879,883"/>
+<area shape="rect" id="node37" href="$classcbdc_1_1config_1_1parser.html#ac6c1367a2fca2350d69a8a17d64bc714" title="Return the value for the given key if its value is a long." alt="" coords="747,907,879,948"/>
+<area shape="rect" id="node40" href="$namespacecbdc_1_1config.html#a26c6481b70e8a63d9ade96344838d50e" title=" " alt="" coords="729,463,896,504"/>
+<area shape="rect" id="node41" href="$namespacecbdc_1_1config.html#abcec88d37e7e0298bcd244767d639be5" title=" " alt="" coords="729,528,896,569"/>
+<area shape="rect" id="node43" href="$namespacecbdc_1_1config.html#a156d9dde7e6e6381fa15971202b4d488" title=" " alt="" coords="736,724,889,765"/>
+<area shape="rect" id="node44" href="$namespacecbdc_1_1config.html#aa149b3d98e6adb36f8f6d4ecc949b381" title=" " alt="" coords="736,659,889,700"/>
+<area shape="rect" id="node49" href="$classcbdc_1_1client.html#a34d48b9a1d6df47124403a4abad7ca9e" title="Generates a new wallet address that other clients can use to send money to this client using send." alt="" coords="308,1333,479,1359"/>
+</map>

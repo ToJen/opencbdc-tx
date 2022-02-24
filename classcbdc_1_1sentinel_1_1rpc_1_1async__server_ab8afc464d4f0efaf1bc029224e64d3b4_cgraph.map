@@ -1,0 +1,4 @@
+<map id="cbdc::sentinel::rpc::async_server::async_server" name="cbdc::sentinel::rpc::async_server::async_server">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,5,151,61"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1sentinel_1_1async__interface.html#a3e96626546b4fe335a962879c0262be3" title="Validate transaction on the sentinel, forward it to the coordinator network, and return the execution..." alt="" coords="199,13,400,54"/>
+</map>

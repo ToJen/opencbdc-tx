@@ -1,0 +1,4 @@
+<map id="cbdc::locking_shard::locking_shard::lock_outputs" name="cbdc::locking_shard::locking_shard::lock_outputs">
+<area shape="rect" id="node1" title="Attempts to lock the input hashes for the given batch of transactions." alt="" coords="5,5,144,61"/>
+<area shape="rect" id="node2" href="$namespacecbdc_1_1config.html#accbad9a301a3d8a1921e60b9a756954e" title="Checks if a hash is in the given range handled." alt="" coords="192,13,316,54"/>
+</map>

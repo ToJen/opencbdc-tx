@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['data_0',['data',['../classcbdc_1_1buffer.html#a06b7affff5f9d9cd9845c7a78d72ec76',1,'cbdc::buffer::data() -&gt; void *'],['../classcbdc_1_1buffer.html#a720c9a8681156418c0cd3f9148a66fa4',1,'cbdc::buffer::data() const -&gt; const void *']]],
+  ['data_5fat_1',['data_at',['../classcbdc_1_1buffer.html#a9cd57eb343757f12ec5d0a473291428a',1,'cbdc::buffer::data_at(size_t offset) -&gt; void *'],['../classcbdc_1_1buffer.html#abd6f8b2b42962484d285159957262243',1,'cbdc::buffer::data_at(size_t offset) const -&gt; const void *']]],
+  ['data_5ferror_2',['data_error',['../namespacecbdc_1_1transaction_1_1validation.html#af8901b9a4704070452981bca3ab05fbbace29e8f64e6faa54eea929ee7b698c7f',1,'cbdc::transaction::validation']]],
+  ['data_5fslice_3',['data_slice',['../namespacecbdc_1_1raft.html#a535d45392fdd81eb0f801d899069b17d',1,'cbdc::raft']]],
+  ['debug_4',['debug',['../namespacecbdc_1_1raft.html#a90ce1bef3a0a2ff31a408bd8178818d8aad42f6697b035b7580e4fef93be20b4d',1,'cbdc::raft::debug()'],['../namespacecbdc_1_1logging.html#a71a306e5ac8234a66ce25bb5aed18254aad42f6697b035b7580e4fef93be20b4d',1,'cbdc::logging::debug()'],['../classcbdc_1_1logging_1_1log.html#a7fe252ea20782de485b3e231a084047c',1,'cbdc::logging::log::debug()']]],
+  ['decode_5faddress_5',['decode_address',['../client-cli_8cpp.html#ac1723efebee1f37b0b8f4ff1787cf34e',1,'client-cli.cpp']]],
+  ['deserialize_6',['deserialize',['../classcbdc_1_1atomizer_1_1atomizer.html#ac5a90e73fa482ad54131d373f0989ec6',1,'cbdc::atomizer::atomizer']]],
+  ['deserialize_5frequest_7',['deserialize_request',['../classcbdc_1_1rpc_1_1server.html#ab2562ea21975c38ae466a694e65a91c9',1,'cbdc::rpc::server']]],
+  ['deserialize_5fresponse_8',['deserialize_response',['../classcbdc_1_1rpc_1_1client.html#a79427687f2719fd3839d47cd73fa1480',1,'cbdc::rpc::client']]],
+  ['digest_5fblock_9',['digest_block',['../classcbdc_1_1archiver_1_1controller.html#a5426eed315c90a6d2ccb33061f9b2a96',1,'cbdc::archiver::controller::digest_block()'],['../classcbdc_1_1shard_1_1shard.html#a43ca8261d317e87c4367da83427a9716',1,'cbdc::shard::shard::digest_block(const cbdc::atomizer::block &amp;blk) -&gt; bool']]],
+  ['digest_5ftransaction_10',['digest_transaction',['../classcbdc_1_1shard_1_1shard.html#a820b418a77ffef1d5139393409a580e3',1,'cbdc::shard::shard']]],
+  ['discard_11',['discard',['../classcbdc_1_1coordinator_1_1distributed__tx.html#a71d5d6ecc78a28643c788acad88d506fa70f68bb2f748b85de6526bfe236ea1e9',1,'cbdc::coordinator::distributed_tx::discard()'],['../classcbdc_1_1coordinator_1_1state__machine.html#a291b285c01e4c4479dfe738e2b3e2d60a70f68bb2f748b85de6526bfe236ea1e9',1,'cbdc::coordinator::state_machine::discard()']]],
+  ['discard_5fcb_5ft_12',['discard_cb_t',['../classcbdc_1_1coordinator_1_1distributed__tx.html#a185336cd9e7170ef16b0ea1dac791228',1,'cbdc::coordinator::distributed_tx']]],
+  ['discard_5fdtx_13',['discard_dtx',['../classcbdc_1_1locking__shard_1_1rpc_1_1client.html#a3ac1a334205c81baf298c5f518f9ae40',1,'cbdc::locking_shard::rpc::client::discard_dtx()'],['../classcbdc_1_1locking__shard_1_1interface.html#af10f56392a3607301847e306c10fa5fe',1,'cbdc::locking_shard::interface::discard_dtx()'],['../classcbdc_1_1locking__shard_1_1locking__shard.html#ab5c383c7b408e7b4c28b95065d23405c',1,'cbdc::locking_shard::locking_shard::discard_dtx()']]],
+  ['discard_5fparams_14',['discard_params',['../structcbdc_1_1locking__shard_1_1rpc_1_1discard__params.html',1,'cbdc::locking_shard::rpc']]],
+  ['discard_5fresponse_15',['discard_response',['../structcbdc_1_1locking__shard_1_1rpc_1_1discard__response.html',1,'cbdc::locking_shard::rpc']]],
+  ['discard_5ftxs_16',['discard_txs',['../classcbdc_1_1coordinator_1_1controller.html#a158ccb606962384bccfa960be63f3dce',1,'cbdc::coordinator::controller']]],
+  ['disconnect_17',['disconnect',['../classcbdc_1_1network_1_1tcp__socket.html#a9df0a38749dc358bfaf99965608d85ec',1,'cbdc::network::tcp_socket']]],
+  ['distributed_5ftx_18',['distributed_tx',['../classcbdc_1_1coordinator_1_1distributed__tx.html',1,'cbdc::coordinator::distributed_tx'],['../classcbdc_1_1coordinator_1_1distributed__tx.html#ae52f54b5444e7448258aa9a49670cd90',1,'cbdc::coordinator::distributed_tx::distributed_tx()']]],
+  ['distributed_5ftx_2ecpp_19',['distributed_tx.cpp',['../distributed__tx_8cpp.html',1,'']]],
+  ['distributed_5ftx_2ehpp_20',['distributed_tx.hpp',['../distributed__tx_8hpp.html',1,'']]],
+  ['done_21',['done',['../classcbdc_1_1coordinator_1_1distributed__tx.html#a71d5d6ecc78a28643c788acad88d506fa6b2ded51d81a4403d8a4bd25fa1e57ee',1,'cbdc::coordinator::distributed_tx::done()'],['../classcbdc_1_1coordinator_1_1state__machine.html#a291b285c01e4c4479dfe738e2b3e2d60a6b2ded51d81a4403d8a4bd25fa1e57ee',1,'cbdc::coordinator::state_machine::done()']]],
+  ['done_5fcb_5ft_22',['done_cb_t',['../classcbdc_1_1coordinator_1_1distributed__tx.html#ae84506a65e497c4984de423c4a5a905c',1,'cbdc::coordinator::distributed_tx']]],
+  ['dtx_5fstate_23',['dtx_state',['../classcbdc_1_1coordinator_1_1distributed__tx.html#a71d5d6ecc78a28643c788acad88d506f',1,'cbdc::coordinator::distributed_tx']]],
+  ['duplicate_24',['duplicate',['../namespacecbdc_1_1transaction_1_1validation.html#af8901b9a4704070452981bca3ab05fbba24f1b0a79473250c195c7fb84e393392',1,'cbdc::transaction::validation']]]
+];

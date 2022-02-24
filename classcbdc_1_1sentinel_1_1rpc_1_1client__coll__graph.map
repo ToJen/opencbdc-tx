@@ -1,0 +1,4 @@
+<map id="cbdc::sentinel::rpc::client" name="cbdc::sentinel::rpc::client">
+<area shape="rect" id="node1" title="TCP RPC client for sentinels." alt="" coords="21,80,147,121"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1sentinel_1_1interface.html" title="Interface for a sentinel." alt="" coords="5,5,163,32"/>
+</map>

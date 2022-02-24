@@ -1,0 +1,4 @@
+<map id="cbdc::sentinel::async_interface" name="cbdc::sentinel::async_interface">
+<area shape="rect" id="node1" title="Interface for an asynchronous sentinel." alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node2" href="$classcbdc_1_1sentinel__2pc_1_1controller.html" title="Manages a sentinel server for the two&#45;phase commit architecture." alt="" coords="11,95,141,136"/>
+</map>
